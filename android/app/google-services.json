@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333236741121",
+    "project_id": "shopit-fdbc0",
+    "storage_bucket": "shopit-fdbc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333236741121:android:4449d76e13081b15d6cc00",
+        "android_client_info": {
+          "package_name": "com.example.shopit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJI-N4Ce89lwxCxr46syliuIttxIGHYC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
